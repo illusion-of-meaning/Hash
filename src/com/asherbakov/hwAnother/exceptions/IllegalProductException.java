@@ -1,4 +1,4 @@
-package exceptions;
+package com.asherbakov.hwAnother.exceptions;
 
 public class IllegalProductException extends RuntimeException{
     public IllegalProductException() {

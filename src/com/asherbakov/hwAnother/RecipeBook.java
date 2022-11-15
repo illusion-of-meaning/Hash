@@ -1,4 +1,6 @@
-import exceptions.ExistingRecipeException;
+package com.asherbakov.hwAnother;
+
+import com.asherbakov.hwAnother.exceptions.ExistingRecipeException;
 
 import java.util.HashSet;
 import java.util.Set;

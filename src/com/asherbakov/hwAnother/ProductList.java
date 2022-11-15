@@ -1,4 +1,6 @@
-import exceptions.IllegalProductException;
+package com.asherbakov.hwAnother;
+
+import com.asherbakov.hwAnother.exceptions.IllegalProductException;
 
 import java.util.HashSet;
 import java.util.Set;

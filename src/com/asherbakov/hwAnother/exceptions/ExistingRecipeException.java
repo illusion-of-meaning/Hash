@@ -1,4 +1,4 @@
-package exceptions;
+package com.asherbakov.hwAnother.exceptions;
 
 public class ExistingRecipeException extends RuntimeException {
     public ExistingRecipeException() {
